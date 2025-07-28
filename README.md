@@ -2,7 +2,7 @@
 
 **Mangansayur** is a simple front-end-based website designed to offer and promote online vegetable sales. This website serves as a digital storefront showcasing various types of fresh vegetables ready to be ordered by customers.
 
-🔗 **Live Demo**: [samlehoy.github.io/mangansayur](https://samlehoy.github.io/Mangansayur)
+🔗 **Live Demo**: [samlehoy.github.io/Mangansayur](https://samlehoy.github.io/Mangansayur)
 
 ## 📸 Preview
 ![Preview Website](https://github.com/user-attachments/assets/a99b6a0d-3862-416d-bd9b-19cdb7eec5e9)
