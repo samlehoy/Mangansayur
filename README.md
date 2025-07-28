@@ -5,8 +5,7 @@
 🔗 **Live Demo**: [samlehoy.github.io/mangansayur](https://samlehoy.github.io/mangansayur)
 
 ## 📸 Tampilan
-<img width="1900" height="943" alt="image" src="https://github.com/user-attachments/assets/92313dce-8372-4f22-bf25-b719964f9260" />
-![Preview Website](preview.png) 
+![Preview Website](https://github.com/user-attachments/assets/92313dce-8372-4f22-bf25-b719964f9260)]
 
 
 ## ✨ Fitur
